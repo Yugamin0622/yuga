@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\総合課題０3\総合課題０１\Source.cpp(253): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+C:\Users\user\Desktop\総合課題０3\総合課題０１\Source.cpp(255): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  総合課題０１.vcxproj -> C:\Users\user\Desktop\総合課題０3\Debug\総合課題０１.exe
